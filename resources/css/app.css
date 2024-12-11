@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+    width: 90px;
+    height: 70px; 
+};
+
+.links{
+    padding: auto;
+    font-weight: bold;
+};
